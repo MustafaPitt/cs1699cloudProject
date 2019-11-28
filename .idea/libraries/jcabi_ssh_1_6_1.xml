@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jcabi-ssh-1.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcabi-ssh-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jsch-0.1.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-2.6.0-cdh5.15.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-mapreduce-client-core-2.6.0-cdh5.15.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
