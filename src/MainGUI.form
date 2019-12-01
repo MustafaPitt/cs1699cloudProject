@@ -24,14 +24,6 @@
           <html.disable class="java.lang.Boolean" value="true"/>
         </clientProperties>
       </component>
-      <component id="e7762" class="javax.swing.JButton" binding="constInvertedBtn">
-        <constraints>
-          <grid row="1" column="2" row-span="4" col-span="4" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <text value="Construct Inverted Indicies"/>
-        </properties>
-      </component>
       <component id="b743e" class="javax.swing.JButton" binding="runHadoopBtn">
         <constraints>
           <grid row="5" column="2" row-span="1" col-span="4" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
@@ -66,10 +58,34 @@
       </component>
       <component id="848c3" class="javax.swing.JButton" binding="topNbtn">
         <constraints>
-          <grid row="4" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <grid row="3" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="Run Hadoop Top N"/>
+        </properties>
+      </component>
+      <component id="e7762" class="javax.swing.JButton" binding="constInvertedBtn">
+        <constraints>
+          <grid row="2" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Construct Inverted Indicies"/>
+        </properties>
+      </component>
+      <component id="2eb5f" class="javax.swing.JButton" binding="getTopN">
+        <constraints>
+          <grid row="4" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Get Top N words"/>
+        </properties>
+      </component>
+      <component id="992c7" class="javax.swing.JButton" binding="uploadBtn">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Upload data"/>
         </properties>
       </component>
     </children>

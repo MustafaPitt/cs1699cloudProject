@@ -1,15 +1,10 @@
 import com.jcraft.jsch.*;
-
 import javax.swing.*;
-import javax.swing.table.TableModel;
-import javax.swing.table.TableRowSorter;
-import java.io.*;
+import java.time.Duration;
+import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Level;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
-import static java.util.logging.Logger.getLogger;
 
 public class SearchGUI {
 
@@ -27,6 +22,7 @@ public class SearchGUI {
 
         cmds.add("cd cloudProject");
         cmds.add("java SearchForTerm "+term);
+        Instant start = Instant.now();
         List <String>result  =  SSL.executeCommands(cmds);
         String extractedListInString = extraxtStringList(result.get(1));
 
@@ -37,7 +33,10 @@ public class SearchGUI {
             temp.add(splits[i]);
         }
         String [][]datatest = convertListTo2dArray(temp);
-        createUIComponents(datatest,term);
+        Instant finish = Instant.now();
+        long timeElapsed = Duration.between(start, finish).toMillis();  //in millis
+        JOptionPane.showMessageDialog(null, "Execution time  in in millis" + timeElapsed);
+        createUIComponents(datatest,term + " Execution time  in in millis " + timeElapsed);
     }
 
     private String extraxtStringList(String s) {
@@ -81,6 +80,8 @@ public class SearchGUI {
         myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         String[] columns = {"Doc ID", "Doc Name","Doc Folder","Frequencies"};
         JTable table1 = new JTable(data, columns);
+
+
         JScrollPane jpane = new JScrollPane(table1);
         myFrame.add(jpane);
     }

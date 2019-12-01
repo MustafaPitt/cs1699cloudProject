@@ -56,14 +56,6 @@ public class HadoopProject {
             folderName = removeSlashes(folderName);
             String fileName = ((org.apache.hadoop.mapreduce.lib.input.FileSplit) context.getInputSplit()).getPath().getName(); // my code
 
-            // if id is not created for this filename then create a new id for it Mustafa
-//            if(!ids.containsKey(fileName)) {
-//                counter++;
-//                ids.put(fileName,counter);
-//            }
-//            // get folder id Mustafa
-//            int id =  ids.get(fileName);
-
 
             String line=value.toString();
             //Split the line in words
@@ -115,11 +107,6 @@ public class HadoopProject {
 
         }
 
-//        private String getDocName(String str) {
-//            int i = 0;
-//            while (str.charAt(i++)!= ',' && i < str.length());
-//            return str.substring(i);
-//        }
     }
 
 
