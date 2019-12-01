@@ -42,9 +42,6 @@ public class HadoopProject {
 
     public static class Map extends Mapper<LongWritable,Text,Text,Text> {
 
-//
-//        static int counter = 1; // my code
-//        static HashMap <String,Integer> ids = new HashMap<>(); // my code
 
         @Override
         public void map(LongWritable key, Text value, Context context)

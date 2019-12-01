@@ -7,29 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43d10fe-4ecb-486c-bed8-b9d747d06896" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondarySortTopN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopNGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invertedIndexesHmObject" beforeDir="false" afterPath="$PROJECT_DIR$/invertedIndexesHmObject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/BuildInvertedIndices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/BuildInvertedIndices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/ClientApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/ClientApp$MyUserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/ClientApp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/HadoopProject$Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/HadoopProject$Map.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/HadoopProject$Reduce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/HadoopProject$Reduce.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/HadoopProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/HadoopProject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/MainGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/MainGUI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/MainGUI$MyUserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/MainGUI$MyUserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/MainGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/MainGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/SearchGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/SearchGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/Temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/Temp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/TopTenN$TopNMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/TopTenN$TopNMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/TopTenN$TopNReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/TopTenN$TopNReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/TopTenN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/TopTenN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/META-INF/CS1699Project1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/SSL$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/SSL$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/SSL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/SSL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/SearchForTerm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/SearchForTerm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS1699Project1/SecondarySortTopN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS1699Project1/SecondarySortTopN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildInvertedIndices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildInvertedIndices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientApp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HadoopProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HadoopProject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainGUI.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopTenN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopTenN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SSL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SSL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchForTerm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchForTerm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondarySortTopN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondarySortTopN.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,21 +43,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1511">
-              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+            <state relative-caret-position="306">
+              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#7886#7887#0" expanded="true" />
                 <element signature="e#7922#7923#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SearchGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="135">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SecondarySortTopN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="-134">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TopNGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
+            <state relative-caret-position="425">
               <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,29 +91,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SSL.java">
+        <entry file="file://$PROJECT_DIR$/src/TopTenN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+            <state relative-caret-position="1037">
+              <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1982#1983#0" expanded="true" />
-                <element signature="e#2058#2059#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SSL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1972#1973#0" expanded="true" />
+                <element signature="e#2048#2049#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainGUI.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file.txt">
+        <entry file="file://$PROJECT_DIR$/src/BuildInvertedIndices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6732">
-              <caret line="396" column="5" selection-start-line="396" selection-start-column="5" selection-end-line="396" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,8 +131,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HadoopProject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="114" column="40" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
+            <state relative-caret-position="33">
+              <caret line="101" column="63" selection-start-line="101" selection-start-column="63" selection-end-line="101" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SearchForTerm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +155,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Temp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
+            <state relative-caret-position="391">
               <caret line="25" column="21" selection-start-line="8" selection-end-line="25" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -152,8 +175,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>connect</find>
-      <find>=</find>
       <find>passw</find>
       <find>baisais</find>
       <find>Sending commands..</find>
@@ -182,6 +203,8 @@
       <find>*</find>
       <find>time</find>
       <find>constInvertedBtn</find>
+      <find>Properties</find>
+      <find>conne</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,34 +214,34 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ServerApp.java" />
-        <option value="$PROJECT_DIR$/src/ClientApp.java" />
         <option value="$PROJECT_DIR$/src/SearchGUI.form" />
         <option value="$PROJECT_DIR$/backup2.txt" />
         <option value="$PROJECT_DIR$/src/TempTesting.java" />
-        <option value="$PROJECT_DIR$/src/SSL.java" />
         <option value="$PROJECT_DIR$/src/UserSocket.java" />
         <option value="$PROJECT_DIR$/src/ServerSocket.java" />
         <option value="$PROJECT_DIR$/src/LoginClient.java" />
         <option value="$PROJECT_DIR$/src/LoginServer.java" />
         <option value="$PROJECT_DIR$/src/Client.java" />
         <option value="$PROJECT_DIR$/src/BuildInvertedIndecies.java" />
-        <option value="$PROJECT_DIR$/src/SearchForTerm.java" />
         <option value="$PROJECT_DIR$/src/HadoopProject2.java" />
         <option value="$PROJECT_DIR$/src/TopNWordCountMapper.java" />
         <option value="$PROJECT_DIR$/backup" />
         <option value="$PROJECT_DIR$/src/wordcount.scl" />
         <option value="$PROJECT_DIR$/src/TopNwords.java" />
-        <option value="$PROJECT_DIR$/src/HadoopProject.java" />
         <option value="$PROJECT_DIR$/src/TopNWords.java" />
-        <option value="$PROJECT_DIR$/src/BuildInvertedIndices.java" />
         <option value="$PROJECT_DIR$/file.txt" />
         <option value="$PROJECT_DIR$/src/TopTenN.java" />
-        <option value="$PROJECT_DIR$/src/SecondarySortTopN.java" />
         <option value="$PROJECT_DIR$/src/Temp.java" />
         <option value="$PROJECT_DIR$/src/TopNGUI.java" />
         <option value="$PROJECT_DIR$/src/MainGUI.form" />
-        <option value="$PROJECT_DIR$/src/MainGUI.java" />
         <option value="$PROJECT_DIR$/src/SearchGUI.java" />
+        <option value="$PROJECT_DIR$/src/ClientApp.java" />
+        <option value="$PROJECT_DIR$/src/SSL.java" />
+        <option value="$PROJECT_DIR$/src/BuildInvertedIndices.java" />
+        <option value="$PROJECT_DIR$/src/HadoopProject.java" />
+        <option value="$PROJECT_DIR$/src/SearchForTerm.java" />
+        <option value="$PROJECT_DIR$/src/SecondarySortTopN.java" />
+        <option value="$PROJECT_DIR$/src/MainGUI.java" />
       </list>
     </option>
   </component>
@@ -234,6 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,19 +265,29 @@
               <item name="CS1699Project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS1699Project1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CS1699Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS1699Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS1699Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS1699Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MainGUI" type="e9f4de52:FormNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="322" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575171930710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575196140003" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CloudHW3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -347,20 +381,21 @@
       <workItem from="1574358731579" duration="25517000" />
       <workItem from="1574535638725" duration="11778000" />
       <workItem from="1574609207322" duration="102917000" />
-      <workItem from="1574920150379" duration="57410000" />
+      <workItem from="1574920150379" duration="58104000" />
+      <workItem from="1575192356337" duration="3657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225739000" />
+    <option name="totallyTimeSpent" value="230090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Azure Explorer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.7112676" visible="true" weight="0.2109375" />
-      <window_info id="Structure" order="2" sideWeight="0.28873238" side_tool="true" visible="true" weight="0.2109375" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7056338" visible="true" weight="0.2109375" />
+      <window_info id="Structure" order="2" sideWeight="0.2943662" side_tool="true" visible="true" weight="0.2109375" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
@@ -372,8 +407,8 @@
       <window_info anchor="bottom" id="Duplicate detector" order="3" weight="0.32910052" />
       <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4997208" visible="true" weight="0.24867725" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32804233" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4997208" visible="true" weight="0.24867725" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.43280423" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -381,7 +416,7 @@
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32804233" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.24973544" />
       <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.5002792" side_tool="true" weight="0.43910256" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.22010583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -403,7 +438,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BuildInvertedIndices.java</url>
-          <line>7</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -502,16 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClientApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="50" column="28" lean-forward="true" selection-end-line="140" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/net/Socket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7545">
@@ -528,26 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchForTerm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backup">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4437">
@@ -555,15 +560,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/wordcount.scl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wordcount.scl" />
     <entry file="jar://$PROJECT_DIR$/hadoop-mapreduce-client-core-2.6.0-cdh5.15.1.jar!/org/apache/hadoop/mapreduce/Reducer.class">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainGUI.form">
+      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/file.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -572,39 +574,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuildInvertedIndices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TopTenN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SSL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1982#1983#0" expanded="true" />
-            <element signature="e#2058#2059#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Temp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="391">
           <caret line="25" column="21" selection-start-line="8" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuildInvertedIndices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -613,18 +616,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HadoopProject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="114" column="40" selection-start-line="114" selection-start-column="40" selection-end-line="114" selection-end-column="40" />
+        <state relative-caret-position="33">
+          <caret line="101" column="63" selection-start-line="101" selection-start-column="63" selection-end-line="101" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TopNGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/SearchGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchForTerm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopTenN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -633,34 +656,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SecondarySortTopN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="-134">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainGUI.form">
-      <provider selected="true" editor-type-id="ui-designer" />
+    <entry file="file://$PROJECT_DIR$/src/TopNGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1511">
-          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        <state relative-caret-position="306">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#7886#7887#0" expanded="true" />
             <element signature="e#7922#7923#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/SSL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="629">
+          <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2048#2049#0" expanded="true" />
           </folding>
         </state>
       </provider>

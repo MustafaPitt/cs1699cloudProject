@@ -59,7 +59,7 @@ public class SSL {
             session.setPassword(new String(pf.getPassword()));
         }
 
-        UserInfo ui = new ClientApp.MyUserInfo(){
+        UserInfo ui = new MyUserInfo(){
             public void showMessage(String message){
                 JOptionPane.showMessageDialog(null, message);
             }
@@ -79,6 +79,21 @@ public class SSL {
 
         return session;
 
+    }
+    public static abstract class MyUserInfo implements UserInfo, UIKeyboardInteractive{
+        public String getPassword(){ return null; }
+        public boolean promptYesNo(String str){ return false; }
+        public String getPassphrase(){ return null; }
+        public boolean promptPassphrase(String message){ return false; }
+        public boolean promptPassword(String message){ return false; }
+        public void showMessage(String message){ }
+        public String[] promptKeyboardInteractive(String destination,
+                                                  String name,
+                                                  String instruction,
+                                                  String[] prompt,
+                                                  boolean[] echo){
+            return null;
+        }
     }
 
     public static List executeCommands(List<String> commands){

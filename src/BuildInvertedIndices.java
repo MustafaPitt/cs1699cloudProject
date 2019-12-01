@@ -4,6 +4,9 @@ import java.util.*;
 public class BuildInvertedIndices {
 
 
+    // this class will read from hadoop inverted indices output and construct hash map of <term.[][]data>
+    // th data string [][]data will be passed to the Jtable and displayed to the user
+
     public static void main(String[] args) {
         HashMap<String, String[][]> invertedIndexesHM = new HashMap<>();
         BufferedReader reader;

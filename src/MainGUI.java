@@ -31,7 +31,7 @@ public class MainGUI {
             session = SSL.connect();
             //channel.connectBtn();
             try {
-                session.connect(3000);
+                session.connect(6000);
             } catch (JSchException e1) {
                 e1.printStackTrace();
             }

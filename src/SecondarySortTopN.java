@@ -1,6 +1,15 @@
 import java.io.*;
 import java.util.*;
 
+
+/***
+ *
+ * this is secondary sorting application. It will read the output of TopNCount.java and then construct tree map
+ * <integer count, term > by defult it will sort by key
+ * it accept one arg integer N and return top N terms
+ * this class is running on the cluster
+ *
+ * */
 public class SecondarySortTopN {
 
 

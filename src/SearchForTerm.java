@@ -5,6 +5,9 @@ import java.util.HashMap;
 public class SearchForTerm {
 
 
+
+    // this application accepts term as input args and then read hashmap object that constructed by BuildInvertedIndices
+    // if term found it will return it to the client
     public static void main(String[] args) {
 
 
